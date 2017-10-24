@@ -13,9 +13,6 @@ import com.activityfragmentexample.R;
 
 import java.util.ArrayList;
 
-/**
- * Created by esec-sruthi on 24/10/17.
- */
 
 public class FragmentLifeCycleMethods extends Fragment {
 
