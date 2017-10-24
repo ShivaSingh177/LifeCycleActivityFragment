@@ -13,9 +13,6 @@ import android.view.ViewGroup;
 import com.activityfragmentexample.R;
 
 
-/**
- * Created by esec-sruthi on 20/10/17.
- */
 
 public class Dialogfrag extends DialogFragment {
     @Nullable
