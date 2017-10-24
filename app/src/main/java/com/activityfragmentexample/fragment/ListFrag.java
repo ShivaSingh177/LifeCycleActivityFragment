@@ -9,9 +9,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.Toast;
 
-/**
- * Created by esec-sruthi on 20/10/17.
- */
+
 
 public class ListFrag extends ListFragment {
 
