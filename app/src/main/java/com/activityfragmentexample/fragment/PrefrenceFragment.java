@@ -6,9 +6,6 @@ import android.preference.PreferenceFragment;
 import com.activityfragmentexample.R;
 
 
-/**
- * Created by esec-sruthi on 20/10/17.
- */
 
 public class PrefrenceFragment extends PreferenceFragment {
 
